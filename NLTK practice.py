@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 20 12:29:50 2021
 
-@author: esmer
+@author: esmeralda
 """
 
 from nltk.corpus import stopwords
@@ -26,8 +26,6 @@ tokenized_text=sent_tokenize(text)
 print(tokenized_text)
 
 #############
-
-
 
 #Cookie analysis
 #cookie text = text4
