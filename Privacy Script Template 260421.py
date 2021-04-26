@@ -117,9 +117,4 @@ new_file.write(str(full_privacy_policy))
 new_file.close()
 
 ##############################################################################
-"""
-Identify URLS
-"""
-
-[w for w in tokenized_word if w.startswith('GDPR')]
 
